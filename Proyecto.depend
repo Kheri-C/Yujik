@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1528053530 source:c:\users\guillermomx\downloads\esime\programacion\c++\proyecto\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
